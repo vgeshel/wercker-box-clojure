@@ -1,9 +1,9 @@
-name: wunki-clojure
+name: clojure
 version: 0.0.1
 inherits: wercker/ubuntu12.04-webessentials@0.0.3
 type: main
 platform: ubuntu@12.04
-description: wercker box for running Clojure applications
+description: box for running Clojure applications
 keywords:
     - clojure
     - opensource

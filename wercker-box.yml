@@ -1,6 +1,6 @@
 name: clojure
 version: 0.0.1
-inherits: mies/openjdk7@0.0.3
+inherits: mies/java7-oracle@0.0.4
 type: main
 platform: ubuntu@12.04
 description: box for running Clojure applications
